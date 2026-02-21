@@ -1,42 +1,76 @@
-# sv
+# iPod Wrapped
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+iPod Wrapped turns a Rockbox `.scrobbler.log` file into a shareable wrapped-style story and downloadable Story cards.
 
-## Creating a project
+Everything runs client-side in the browser. Your listening data does not get uploaded.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## What it does
+
+- Parses Rockbox Audioscrobbler logs (`L` listened + `S` skipped rows)
+- Computes listening stats (top artists/albums/tracks, streaks, time patterns, deep cuts)
+- Renders an in-app story flow with conditional slides
+- Exports 1080x1920 PNG cards and a ZIP bundle for sharing
+
+## Input format
+
+Expected file: `.scrobbler.log` from Rockbox.
+
+Common locations:
+
+- iPod root: `.scrobbler.log`
+- Alternate: `.rockbox/.scrobbler.log`
+
+Each data row is tab-separated and has 7 fields:
+
+`artist	album	track	trackNumber	durationSeconds	rating(L|S)	unixTimestamp`
+
+See `static/README.md` and `static/example-log.txt` for details.
+
+## Local development
+
+Prerequisites:
+
+- Node.js 20+ (recommended)
+- npm or Bun
+
+Install:
 
 ```sh
-# create a new project
-npx sv create my-app
+npm install
+# or
+bun install
 ```
 
-To recreate this project with the same configuration:
-
-```sh
-# recreate this project
-npx sv create --template minimal --types ts --no-install ipod-wrapped
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Run dev server:
 
 ```sh
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+# or
+bun run dev
 ```
 
-## Building
+Type checking:
 
-To create a production version of your app:
+```sh
+npm run check
+```
+
+Build + preview:
 
 ```sh
 npm run build
+npm run preview
 ```
 
-You can preview the production build with `npm run preview`.
+## Scripts
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+- `dev`: start Vite dev server
+- `build`: production build (SvelteKit static adapter)
+- `preview`: preview built output locally
+- `check`: sync SvelteKit types + run `svelte-check`
+- `check:watch`: same as `check`, watch mode
+
+## Project docs
+
+- `src/lib/README.md`: architecture and data flow
+- `static/README.md`: sample log file and field reference
