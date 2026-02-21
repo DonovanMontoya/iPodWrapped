@@ -1,0 +1,109 @@
+#AUDIOSCROBBLER/1.1
+#TZ/UNKNOWN
+#CLIENT/Rockbox
+Radiohead	OK Computer	Paranoid Android	2	383	L	1704067200
+Radiohead	OK Computer	Karma Police	5	264	L	1704067600
+Radiohead	OK Computer	Lucky	10	284	L	1704067900
+Daft Punk	Discovery	One More Time	1	320	L	1704068300
+Daft Punk	Discovery	Digital Love	2	301	L	1704068700
+Daft Punk	Discovery	Harder Better Faster Stronger	4	226	L	1704069000
+Radiohead	Kid A	Everything In Its Right Place	1	250	L	1704153600
+Radiohead	Kid A	The National Anthem	2	332	L	1704154000
+Boards of Canada	Music Has the Right to Children	Roygbiv	5	126	L	1704154200
+Boards of Canada	Music Has the Right to Children	Turquoise Hexagon Sun	9	332	L	1704154600
+Aphex Twin	Selected Ambient Works 85-92	Xtal	1	290	L	1704240000
+Aphex Twin	Selected Ambient Works 85-92	Tha	2	541	L	1704240400
+Radiohead	OK Computer	Paranoid Android	2	383	L	1704240800
+Daft Punk	Random Access Memories	Get Lucky	8	369	L	1704241200
+Daft Punk	Random Access Memories	Instant Crush	5	337	L	1704241600
+Portishead	Dummy	Sour Times	4	249	L	1704326400
+Portishead	Dummy	Glory Box	11	305	L	1704326800
+Massive Attack	Mezzanine	Teardrop	2	330	L	1704327200
+Massive Attack	Mezzanine	Angel	1	379	L	1704327600
+Radiohead	In Rainbows	Reckoner	7	290	L	1704412800
+Radiohead	In Rainbows	Nude	4	317	L	1704413200
+Radiohead	In Rainbows	Weird Fishes/Arpeggi	3	318	L	1704413600
+Daft Punk	Discovery	Voyager	7	244	S	1704414000
+Boards of Canada	Geogaddi	Music Is Math	1	360	L	1704499200
+Boards of Canada	Geogaddi	1969	11	140	L	1704499600
+Aphex Twin	Richard D. James Album	4	4	287	L	1704499900
+Aphex Twin	Richard D. James Album	Fingerbib	5	202	L	1704500200
+Radiohead	OK Computer	Paranoid Android	2	383	L	1704585600
+Radiohead	OK Computer	Exit Music (For a Film)	4	277	L	1704586000
+Radiohead	OK Computer	Let Down	5	295	L	1704586400
+Daft Punk	Discovery	Something About Us	10	232	L	1704586800
+Daft Punk	Homework	Around the World	7	428	L	1704587200
+Portishead	Third	Machine Gun	5	294	L	1704672000
+Portishead	Third	The Rip	8	298	L	1704672400
+Massive Attack	Blue Lines	Unfinished Sympathy	3	307	L	1704672800
+Massive Attack	Blue Lines	Safe from Harm	1	313	L	1704673200
+Boards of Canada	The Campfire Headphase	Dayvan Cowboy	5	313	L	1704758400
+Boards of Canada	The Campfire Headphase	Chromakey Dreamcoat	3	433	L	1704758800
+Radiohead	The Bends	Fake Plastic Trees	4	291	L	1704844800
+Radiohead	The Bends	Street Spirit (Fade Out)	12	260	L	1704845200
+Radiohead	The Bends	High and Dry	3	257	S	1704845600
+Daft Punk	Discovery	One More Time	1	320	L	1704931200
+Daft Punk	Discovery	Aerodynamic	2	213	L	1704931600
+Aphex Twin	Selected Ambient Works Volume II	Rhubarb	7	415	L	1704932000
+Aphex Twin	Selected Ambient Works Volume II	Stone in Focus	8	394	L	1704932400
+Radiohead	OK Computer	No Surprises	6	228	L	1705017600
+Radiohead	OK Computer	Airbag	1	284	L	1705018000
+Daft Punk	Random Access Memories	Touch	8	498	L	1705018400
+Portishead	Dummy	Wandering Star	6	294	L	1705104000
+Portishead	Dummy	Roads	7	306	L	1705104400
+Massive Attack	Mezzanine	Inertia Creeps	4	328	L	1705104800
+Boards of Canada	Music Has the Right to Children	Aquarius	1	360	L	1705190400
+Boards of Canada	Music Has the Right to Children	An Eagle in Your Mind	2	394	L	1705190800
+Radiohead	In Rainbows	15 Step	1	237	L	1705276800
+Radiohead	In Rainbows	Bodysnatchers	2	242	L	1705277200
+Radiohead	In Rainbows	All I Need	5	230	L	1705277600
+Daft Punk	Discovery	Face to Face	11	244	L	1705363200
+Daft Punk	Discovery	Veridis Quo	12	347	L	1705363600
+Aphex Twin	Selected Ambient Works 85-92	Pulsewidth	6	336	L	1705363900
+Radiohead	Kid A	How to Disappear Completely	3	339	L	1705449600
+Radiohead	Kid A	Idioteque	5	309	L	1705450000
+Radiohead	Kid A	Morning Bell	6	269	S	1705450400
+Massive Attack	Mezzanine	Dissolved Girl	3	331	L	1705536000
+Massive Attack	Mezzanine	Black Milk	6	362	L	1705536400
+Portishead	Third	Silence	4	295	L	1705536800
+Boards of Canada	Geogaddi	Gyroscope	4	280	L	1705622400
+Boards of Canada	Geogaddi	Dawn Chorus	14	201	L	1705622800
+Daft Punk	Homework	Da Funk	5	329	L	1705708800
+Daft Punk	Homework	Revolution 909	3	330	L	1705709200
+Radiohead	OK Computer	Climbing Up the Walls	7	282	L	1705795200
+Radiohead	Amnesiac	Pyramid Song	2	291	L	1705795600
+Radiohead	Amnesiac	Knives Out	5	232	L	1705796000
+Aphex Twin	Drukqs	Avril 14th	1	120	L	1705881600
+Aphex Twin	Drukqs	Vordhosbn	2	290	L	1705882000
+Daft Punk	Discovery	One More Time	1	320	L	1706400000
+Daft Punk	Discovery	Digital Love	2	301	L	1706400400
+Radiohead	OK Computer	Paranoid Android	2	383	L	1706486400
+Radiohead	OK Computer	Karma Police	5	264	L	1706486800
+Boards of Canada	Music Has the Right to Children	Roygbiv	5	126	L	1706572800
+Boards of Canada	The Campfire Headphase	Peacock Tail	1	365	L	1706572900
+Portishead	Dummy	Sour Times	4	249	L	1706659200
+Massive Attack	Mezzanine	Teardrop	2	330	L	1706745600
+Massive Attack	Protection	Protection	1	471	L	1706746000
+Radiohead	In Rainbows	Jigsaw Falling into Place	10	253	L	1706832000
+Radiohead	In Rainbows	Videotape	11	275	L	1706832400
+Daft Punk	Random Access Memories	Giorgio by Moroder	3	544	L	1706918400
+Daft Punk	Random Access Memories	Lose Yourself to Dance	6	353	L	1706918800
+Aphex Twin	Selected Ambient Works 85-92	Xtal	1	290	L	1707004800
+Aphex Twin	...I Care Because You Do	Alberto Balsalm	7	340	L	1707005200
+Boards of Canada	Music Has the Right to Children	Wildlife Analysis	4	201	L	1707091200
+Radiohead	The Bends	Just	6	234	L	1707177600
+Radiohead	The Bends	My Iron Lung	8	276	L	1707178000
+Radiohead	A Moon Shaped Pool	Daydreaming	2	378	L	1707264000
+Radiohead	A Moon Shaped Pool	Decks Dark	4	268	L	1707264400
+Daft Punk	Discovery	Something About Us	10	232	L	1707350400
+Portishead	Dummy	Mysterons	1	306	L	1707350800
+Portishead	Portishead	All Mine	3	272	L	1707351200
+Massive Attack	Mezzanine	Risingson	1	308	L	1707436800
+Massive Attack	Heligoland	Paradise Circus	3	281	L	1707437200
+Boards of Canada	Geogaddi	The Devil Is in the Details	14	245	S	1707523200
+Radiohead	OK Computer	Paranoid Android	2	383	L	1707523600
+Daft Punk	Discovery	Aerodynamic	2	213	L	1707609600
+Aphex Twin	Selected Ambient Works Volume II	Rhubarb	7	415	L	1707696000
+Aphex Twin	Selected Ambient Works Volume II	Cliffs	10	322	L	1707696400
+Radiohead	Kid A	Everything In Its Right Place	1	250	L	1707782400
+Radiohead	Kid A	Optimistic	4	312	L	1707782800
